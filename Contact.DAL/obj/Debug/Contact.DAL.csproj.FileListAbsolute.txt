@@ -1,0 +1,13 @@
+C:\Users\theti\documents\visual studio 2017\Projects\Contact.WebAPI\Contact.DAL\bin\Debug\Contact.DAL.dll.config
+C:\Users\theti\documents\visual studio 2017\Projects\Contact.WebAPI\Contact.DAL\bin\Debug\Contact.DAL.dll
+C:\Users\theti\documents\visual studio 2017\Projects\Contact.WebAPI\Contact.DAL\bin\Debug\Contact.DAL.pdb
+C:\Users\theti\documents\visual studio 2017\Projects\Contact.WebAPI\Contact.DAL\bin\Debug\EntityFramework.dll
+C:\Users\theti\documents\visual studio 2017\Projects\Contact.WebAPI\Contact.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\theti\documents\visual studio 2017\Projects\Contact.WebAPI\Contact.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\theti\documents\visual studio 2017\Projects\Contact.WebAPI\Contact.DAL\bin\Debug\EntityFramework.xml
+C:\Users\theti\documents\visual studio 2017\Projects\Contact.WebAPI\Contact.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\theti\documents\visual studio 2017\Projects\Contact.WebAPI\Contact.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\theti\documents\visual studio 2017\Projects\Contact.WebAPI\Contact.DAL\obj\Debug\Contact.DAL.dll
+C:\Users\theti\documents\visual studio 2017\Projects\Contact.WebAPI\Contact.DAL\obj\Debug\Contact.DAL.pdb
+C:\Users\theti\documents\visual studio 2017\Projects\Contact.WebAPI\Contact.DAL\obj\Debug\Contact.DAL.Migrations.intial.resources
+C:\Users\theti\documents\visual studio 2017\Projects\Contact.WebAPI\Contact.DAL\obj\Debug\Contact.DAL.csproj.GenerateResource.Cache
